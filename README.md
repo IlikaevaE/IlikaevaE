@@ -21,7 +21,7 @@
 
 # <a name="Еще">Кроме того:</a>
 
-- ⚡ Люблю читать книги. Люблю читать книги на немецком языке. 
+- ⚡ Люблю читать. Люблю читать книги на немецком языке. 
 
 <!--
 **IlikaevaE/IlikaevaE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
