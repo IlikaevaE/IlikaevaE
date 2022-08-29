@@ -9,9 +9,11 @@
 - 🌱 В 2022 году окончила курс по автоматизации тестирования в QA GURU.
 С моими работами можно ознакомиться здесь:
 
-[UI tests](https://github.com/IlikaevaE/search-for-job-ui_tests)
-[API+UI tests](https://github.com/IlikaevaE/qa_guru_13_API_tests)
-[Mobile tests](https://github.com/IlikaevaE/qa_mobile_test_13)
+> - [UI tests](https://github.com/IlikaevaE/search-for-job-ui_tests)
+> 
+> - [API+UI tests](https://github.com/IlikaevaE/qa_guru_13_API_tests)
+> 
+> - [Mobile tests](https://github.com/IlikaevaE/qa_mobile_test_13)
 
 # <a name="Еще">Кроме того:</a>
 
